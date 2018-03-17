@@ -1,4 +1,4 @@
-# Redux VS react-stateful
+# Redux VS react-waterfall
 
 ## Redux app size
 
@@ -33,9 +33,9 @@ Find out more about deployment here:
 ✨  Done in 10.66s.
 ```
 
-## react-stateful app size
+## react-waterfall app size
 
-react-stateful adds `1.11 kB` (+3%) to a simple counter project
+react-waterfall adds `1.11 kB` (+3%) to a simple counter project
 
 ```bash
 yarn run v1.3.2
